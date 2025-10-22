@@ -1,0 +1,44 @@
+[
+  {
+    "id": "calcium",
+    "name": "Calcium",
+    "value": 30,
+    "unit": "%",
+    "description": "Daily value"
+  },
+  {
+    "id": "vitamin-a",
+    "name": "Vitamin A",
+    "value": 25,
+    "unit": "%",
+    "description": "Daily value"
+  },
+  {
+    "id": "vitamin-d",
+    "name": "Vitamin D",
+    "value": 20,
+    "unit": "%",
+    "description": "Daily value"
+  },
+  {
+    "id": "potassium",
+    "name": "Potassium",
+    "value": 15,
+    "unit": "%",
+    "description": "Daily value"
+  },
+  {
+    "id": "protein",
+    "name": "Protein",
+    "value": 12,
+    "unit": "g",
+    "description": "Per serving"
+  },
+  {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "value": 85,
+    "unit": "mg",
+    "description": "Average"
+  }
+]

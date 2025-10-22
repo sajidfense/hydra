@@ -1,0 +1,46 @@
+[
+  {
+    "id": "citrus-charge",
+    "name": "Citrus Charge",
+    "tagline": "Energize with citrus",
+    "macros": {
+      "proteinG": 12,
+      "caffeineMg": 80,
+      "sugarG": 8
+    },
+    "color": "#FDB913"
+  },
+  {
+    "id": "berry-boost",
+    "name": "Berry Boost",
+    "tagline": "Power up with berries",
+    "macros": {
+      "proteinG": 14,
+      "caffeineMg": 120,
+      "sugarG": 10
+    },
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "tropical-surge",
+    "name": "Tropical Surge",
+    "tagline": "Island paradise energy",
+    "macros": {
+      "proteinG": 11,
+      "caffeineMg": 75,
+      "sugarG": 12
+    },
+    "color": "#F97316"
+  },
+  {
+    "id": "arctic-wave",
+    "name": "Arctic Wave",
+    "tagline": "Cool refreshing hydration",
+    "macros": {
+      "proteinG": 12,
+      "caffeineMg": 85,
+      "sugarG": 7
+    },
+    "color": "#3B82F6"
+  }
+]
