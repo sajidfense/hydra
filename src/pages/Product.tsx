@@ -14,6 +14,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import productVid from '@/assets/product_vid.mp4'
 
 const Product = () => {
   const { handle } = useParams<{ handle: string }>();
@@ -168,10 +169,7 @@ const Product = () => {
           muted
           playsInline
         >
-          <source
-            src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-            type="video/mp4"
-          />
+          <source src={productVid} type="video/mp4" />
         </video>
 
         {/* Overlay */}

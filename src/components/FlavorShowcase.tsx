@@ -69,7 +69,7 @@ export function FlavorShowcase() {
               <h2 ref={titleRef} className="text-display text-5xl md:text-7xl lg:text-8xl xl:text-9xl leading-[0.9]">
                 WE HAVE 4 <br />
                 <span className="bg-accent text-accent-foreground px-4 inline-block">
-                  FREAKING
+                  REALLY
                 </span>{' '}
                 <br />
                 DELICIOUS FLAVORS

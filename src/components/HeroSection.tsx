@@ -2,6 +2,7 @@ import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Button } from '@/components/ui/button';
+import heroVid from '@/assets/hero_vid.mp4'
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -56,7 +57,7 @@ export function HeroSection() {
           playsInline
           className="absolute inset-0 w-full h-full object-cover z-0 hidden md:block"
         >
-          <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
+          <source src={heroVid} type="video/mp4" />
         </video>
 
         {/* Background image - shown only on mobile */}

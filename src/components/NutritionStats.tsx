@@ -55,9 +55,9 @@ export function NutritionStats() {
     <section ref={sectionRef} className="relative min-h-screen flex flex-col justify-between py-16 md:py-24 overflow-hidden">
       {/* Background Image */}
       <div 
-        className="absolute inset-0 bg-cover bg-center"
+        className="absolute inset-0 bg-cover bg-center -z-10"
         style={{
-          backgroundImage: 'url(https://images.unsplash.com/photo-1628088062854-d1870b4553da?q=80&w=2070)',
+          backgroundImage: "url(/src/assets/abt1.jpg)",
         }}
       />
       

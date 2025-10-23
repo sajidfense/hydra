@@ -73,7 +73,7 @@ export function MarqueeSection() {
               </h2>
             </div>
             <div className="overflow-hidden">
-              <h2 className="text-display text-5xl md:text-7xl lg:text-9xl text-center text-white">
+              <h2 className="text-display text-5xl md:text-7xl lg:text-9xl text-center text-white"><br/>
                 <span className="word inline-block opacity-50">HYDRATION</span>{' '}
                 <span className="word inline-block opacity-50">MADE</span>{' '}
                 <span className="word inline-block opacity-50">SIMPLE</span>
@@ -86,7 +86,7 @@ export function MarqueeSection() {
             ref={overlappingRef}
             className="absolute left-1/2 -translate-x-1/2"
             style={{ top: '42%', transform: 'translate(-50%, -50%)' }}
-          >
+          ><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
             <div 
               className="inline-block px-4 md:px-8 py-2 md:py-3"
               style={{ backgroundColor: '#0c2d64' }}
